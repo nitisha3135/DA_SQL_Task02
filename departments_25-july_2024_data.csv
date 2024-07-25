@@ -1,0 +1,21 @@
+"department_id","department_name","location","salary"
+1,"HR","New York",100000
+2,"IT","San Francisco",150000
+3,"Finance","Chicago",120000
+4,"Operations","Houston",110000
+5,"Marketing","Los Angeles",130000
+6,"Sales","Seattle",125000
+7,"Research","Boston",115000
+8,"Engineering","Austin",140000
+9,"Legal","Washington, D.C.",105000
+10,"Customer Service","Miami",95000
+11,"Product Development","San Diego",160000
+12,"Quality Assurance","Portland",100000
+13,"Supply Chain","Dallas",115000
+14,"Public Relations","Atlanta",105000
+15,"Training","Phoenix",90000
+16,"Consulting","Denver",145000
+17,"Media","San Jose",125000
+18,"Healthcare","Minneapolis",110000
+19,"Education","Philadelphia",95000
+20,"Entertainment","Las Vegas",120000
